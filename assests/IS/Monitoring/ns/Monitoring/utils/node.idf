@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">Monitoring.utils</value>
+  <value name="is_public">false</value>
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIHVzZXJEaXIgPSBTeXN0ZW0uZ2V0UHJvcGVydHko
+InVzZXIuZGlyIik7CnByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBwa2dGb2xkZXIgPSBGaWxl
+LnNlcGFyYXRvciArICJwYWNrYWdlcyI7CnByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBjZmdG
+b2xkZXIgPSBGaWxlLnNlcGFyYXRvciArICJjb25maWciOwpzdGF0aWMgUHJvcGVydGllcyBxID0g
+bmV3IFByb3BlcnRpZXMoKTsKc3RhdGljIHZvaWQgZ2V0Sk1YUG9ydCgpewoJCglpZiAoU3lzdGVt
+LmdldFByb3BlcnR5KCJjb20uc3VuLm1hbmFnZW1lbnQuam14cmVtb3RlIik9PW51bGwpCgl7CgkJ
+cS5wdXQoImVycm9ySW5mbyIsICJKTVggcmVtb3RlIGlzIGRpc2FibGVkIHBsZWFzZSBmb2xsb3cg
+aW5zdHJ1Y3Rpb25zIGFzIG1lbnRpb25lZCBpbiBjb21tZW50cyIpOwoJCS8vcmV0dXJuICAiSk1Y
+IHJlbW90ZSBpcyBkaXNhYmxlZCIgKyAicGxlYXNlIGZvbGxvdyBpbnN0cnVjdGlvbnMgYXMgbWVu
+dGlvbmVkIGluIGNvbW1lbnRzIjsKCX1lbHNlCgl7CgkJU3RyaW5nIGE9U3lzdGVtLmdldFByb3Bl
+cnR5KCJjb20uc3VuLm1hbmFnZW1lbnQuam14cmVtb3RlLnBvcnQiKTsKCQlpZihhIT1udWxsKQoJ
+CXsKCQkJcS5wdXQoImpteFBvcnQiLCBhKTsKCQkJZ2V0R2NDb3VudChhKTsgLy8gY2FsbGluZyBn
+YyBDb3VudCBtZXRob2QKCQl9CgkJZWxzZQoJCXsKCQkJcS5wdXQoImVycm9ySW5mbyIsICJKTVgg
+cG9ydCBpcyBub3Qgc2V0IHByb3Blcmx5IHBsZWFzZSBmb2xsb3cgaW5zdHJ1Y3Rpb25zIGFzIG1l
+bnRpb25lZCBpbiBjb21tZW50cyIpOwoJCX0KCX0KfQoKc3RhdGljIFByb3BlcnRpZXMgZ2V0R2ND
+b3VudChTdHJpbmcgcG9ydCkKewoJaW50IGk9MTsKCXRyeXsKCQlmb3IoR2FyYmFnZUNvbGxlY3Rv
+ck1YQmVhbiBiZWFuIDogTWFuYWdlbWVudEZhY3RvcnkuZ2V0R2FyYmFnZUNvbGxlY3Rvck1YQmVh
+bnMoKSkKCQl7CgkJCXEucHV0KCJnYyIraSsiX25hbWUiLGJlYW4uZ2V0TmFtZSgpKTsKCQkJcS5w
+dXQoImdjIitpKyJfY291bnQiLFN0cmluZy52YWx1ZU9mKGJlYW4uZ2V0Q29sbGVjdGlvbkNvdW50
+KCkpKTsKCQkJCgkJCWkrKzsKCQl9CgkJaWYoaTw9MSkKCQl7CgkJCXEucHV0KCJlcnJvckluZm8i
+LCAiTm8gZ2FyYmFnZUNvbGxlY3RvciBGb3VuZCIpOwoJCX0KCQkKCX1jYXRjaChFeGNlcHRpb24g
+ZSkKCXsKCQlxLnB1dCgiZXJyb3JJbmZvIiwgZS50b1N0cmluZygpKTsKCX0KCQoJcmV0dXJuIHE7
+Cn0=</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>iaik.security.rsa.RSAPublicKey</value>
+    <value>iaik.x509.X509Certificate</value>
+    <value>com.wm.util.JournalLogger</value>
+    <value>com.softwareag.util.IDataMap</value>
+    <value>com.wm.app.b2b.client.Context</value>
+    <value>com.wm.lang.ns.*</value>
+    <value>java.util.Hashtable</value>
+    <value>java.io.*</value>
+    <value>java.lang.management.GarbageCollectorMXBean</value>
+    <value>java.lang.management.ManagementFactory</value>
+    <value>java.net.MalformedURLException</value>
+    <value>java.security.cert.CertificateException</value>
+    <value>java.security.cert.CertificateExpiredException</value>
+    <value>java.text.DateFormat</value>
+    <value>java.text.SimpleDateFormat</value>
+    <value>com.wm.app.b2b.server.*</value>
+    <value>com.wm.lang.ns.NSName</value>
+    <value>com.wm.app.b2b.server.ns.Namespace</value>
+    <value>com.wm.lang.ns.NSNode</value>
+    <value>java.util.ArrayList</value>
+    <value>java.util.Arrays</value>
+    <value>java.util.Collection</value>
+    <value>java.util.Date</value>
+    <value>java.util.Enumeration</value>
+    <value>java.util.HashMap</value>
+    <value>java.util.List</value>
+    <value>java.util.Map</value>
+    <value>java.util.Properties</value>
+    <value>java.util.Set</value>
+    <value>java.util.Vector</value>
+    <value>java.util.concurrent.Callable</value>
+    <value>java.util.concurrent.ExecutorService</value>
+    <value>java.util.concurrent.Executors</value>
+    <value>java.util.concurrent.Future</value>
+    <value>javax.management.JMX</value>
+    <value>javax.management.MBeanServerConnection</value>
+    <value>javax.management.MalformedObjectNameException</value>
+    <value>javax.management.ObjectName</value>
+    <value>javax.management.remote.JMXConnector</value>
+    <value>javax.management.remote.JMXConnectorFactory</value>
+    <value>javax.management.remote.JMXServiceURL</value>
+    <value>java.util.concurrent.*</value>
+    <value>com.wm.app.b2b.server.cache.CacheManagerUtil</value>
+    <value>com.wm.app.b2b.server.lic.ComponentInfo</value>
+    <value>com.wm.app.b2b.server.lic.KeyInfo</value>
+  </array>
+</Values>

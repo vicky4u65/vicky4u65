@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<spmInfo>
+    <spmUrl>http://G2153BHDC810:8092/spm/monitoring/state/</spmUrl>
+    <monitoredProducts>
+			<runtimeComponentId>Universal-Messaging-umserver</runtimeComponentId>
+	</monitoredProducts>
+	<authentication>
+	<type>Basic</type>
+	<user>Administrator</user>
+	<pass>manage</pass>
+	</authentication>
+</spmInfo>
